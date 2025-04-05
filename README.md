@@ -8,10 +8,11 @@ conda activate YoloPaddle
 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 ```
-```markdown
+
 ### 运行：
 ```bash
 python detect.py
+```
 ### 车牌检测数据集
 # 来源于部分CCPD和CRPD
 ### 车牌识别数据集
