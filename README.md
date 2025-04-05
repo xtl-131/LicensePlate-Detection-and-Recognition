@@ -13,8 +13,10 @@ pip install -r requirements.txt
 ```bash
 python detect.py
 ```
+### 车牌检测结果示例
+
 # 车牌检测数据集
-### 来源于部分CCPD和CRPD
+### 来源于部分CCPD和CRPD，可直接进行Yolo系列模型进行训练
 # 车牌识别数据集
-### 来源于部分CCPD、CRPD和全部CBLPRD
+### 来源于部分CCPD、CRPD和全部CBLPRD，可直接进行PaddleOCR模型进行训练
 ### 需要数据集或者车牌检测识别界面系统请联系v:xtl-131
