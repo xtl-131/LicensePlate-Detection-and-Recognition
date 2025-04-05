@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python detect.py
 ```
 ### 车牌检测结果示例
-![车牌检测结果](https://github.com/xtl-131/Yolo-Licenseplate-detection-and-recognition/demo/demo.png"车牌检测结果")
+![demo1](https://github.com/xtl-131/Yolo-Licenseplate-detection-and-recognition/blob/main/demo/demo.png)
 # 车牌检测数据集
 ### 来源于部分CCPD和CRPD，可直接进行Yolo系列模型进行训练
 # 车牌识别数据集
